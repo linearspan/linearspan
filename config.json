@@ -1,0 +1,19 @@
+{
+    "author": "Mladen Gibanica",
+    "sitename": "linearspan",
+    "siteurl": "https://linearspan.com",
+    "template_path": "theme/",
+    "site_path": "",
+    "timezone": "Europe/Stockholm",
+    "default_lang": "en-gb",
+    "content": "content",
+    "templates": "templates",
+    "output": "output",
+    "indexhtml": "index.html",
+    "home": "home",
+    "menuitems": {
+        "home": "",
+    },
+    "posturl": "{{posturl}}",
+    "small_image_height": 300
+}
