@@ -12,7 +12,7 @@
     "indexhtml": "index.html",
     "home": "home",
     "menuitems": {
-        "home": "",
+        "home": ""
     },
     "posturl": "{{posturl}}",
     "small_image_height": 300
