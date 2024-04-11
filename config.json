@@ -23,6 +23,6 @@
         "fenced_code",
         "mdx_math"
     ],
-    "s3-bucket": "mladen",
+    "s3-bucket": "linearspan",
     "mangle_image_name": true
 }
