@@ -8,7 +8,7 @@ data:
 
 <div
     id="bg"
-    style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; background-image: url('/home/data/bg.png'); background-size: cover; background-repeat: no-repeat;"
+    style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; background-image: url('/home/data/bg.jpg'); background-size: cover; background-repeat: no-repeat;"
 >
     <div id="blur"></div>
     <div
