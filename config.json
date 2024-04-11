@@ -2,18 +2,27 @@
     "author": "Mladen Gibanica",
     "sitename": "linearspan",
     "siteurl": "https://linearspan.com",
-    "template_path": "theme/",
-    "site_path": "",
     "timezone": "Europe/Stockholm",
     "default_lang": "en-gb",
-    "content": "content",
-    "templates": "templates",
-    "output": "output",
-    "indexhtml": "index.html",
+    "theme_path": "theme",
+    "src_path": "content",
+    "build_path": "output",
     "home": "home",
     "menuitems": {
-        "home": ""
+        "home": "",
+        "archive": "archive"
     },
-    "posturl": "{{posturl}}",
-    "small_image_height": 300
+    "post_url": "{{post_url}}",
+    "build_date_template": "{{update_date}}",
+    "thumbnail_size": [
+        300,
+        300
+    ],
+    "markdown_extensions": [
+        "meta",
+        "fenced_code",
+        "mdx_math"
+    ],
+    "s3-bucket": "mladen",
+    "mangle_image_name": true
 }
